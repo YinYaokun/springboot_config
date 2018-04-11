@@ -1,0 +1,15 @@
+server:
+  port: 8081
+
+#person1:
+#  name: 'zhang \n san'
+#  age: 18
+#  boss: false
+#  birth: 2017/12/26
+#  maps: {k1: v1,k2: v2}
+#  lists:
+#   - lisi
+#   - wangwu
+#  dog:
+#    name: xiaogou
+#    age: 2
